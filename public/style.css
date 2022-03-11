@@ -1,0 +1,217 @@
+body {
+    font-size: 15px;
+}
+.thumb {
+    border: 5px solid rgba(238, 238, 238, 0.53);
+    width: 700px;
+    height: 400px;
+    padding: 30px;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+.position_recruitment {
+    font-weight: bold;
+    font-size: 20px !important;
+;
+}
+ul {
+    padding-left: 0;
+}
+.thumb img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.container-top {
+    background: url(./landscape_photography_nature_mountains_stars_space_path-47707.jpg) no-repeat 0px 0px;
+    background-size: auto;
+    min-height: 550px;
+    padding: 50px 20px 20px;
+}
+.fullname {
+    color: #fff;
+    font-size: 1.8em;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+;
+}
+.job {
+    color: #ffc53e;
+    font-size: 1.5em;
+    line-height: 1.5em;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.col-md-6.w3-banner-grid-right {
+    width: 50%;
+    float: left;
+}
+
+.w3-banner-grid-right h3 {
+    font-size: 3em;
+    color: #fff;
+    letter-spacing: 2px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+.w3-banner-grid-right p {
+    color: #212529;
+    font-size: 1em;
+    line-height: 1.8em;
+    letter-spacing: 1px;
+}
+ul.address {
+    margin-top: 1.5em;
+    border-top: 2px dotted #00bcd4;
+    padding-top: 0.5em;
+}
+.w3-right-addres-1 li {
+    list-style-type: none;
+}
+li.agile-it-adress-left b {
+    color: #fff;
+}
+ul.address li ul.agileits-address-text li:nth-child(1) {
+    width: 25%;
+}
+ ul.address li ul.agileits-address-text li {
+     display: inline-block;
+     font-size: 1em;
+     color: rgba(255, 255, 255, 0.76);
+     margin-top: 1em;
+     font-weight: 600;
+     font-family: 'Text Me One', sans-serif;
+ }
+ .w3-right-addres-1 li {
+     list-style-type: none;
+ }
+ul.agileits-address-text li a {
+    color: rgba(255, 255, 255, 0.76);
+}
+ul.agileits-address-text li span {
+    margin: 0.2em;
+    color: #d9edf7;
+}
+.w3-about-head h3 {
+    font-size: 3em;
+    color: #00bcd4;
+    font-weight: 600;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-family: 'Poppins', sans-serif;
+}
+.w3-edu-grid-left h3 {
+    color: #fff;
+    font-size: 2em;
+    text-transform: capitalize;
+    margin-bottom: 15px;
+    letter-spacing: 2px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 16px;
+}
+.w3-edu-info1 h4 {
+    text-transform: capitalize;
+    color: #dcad3f;
+    letter-spacing: 2px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.w3-edu-info2 p {
+    color: #fff;
+    font-size: 1em;
+    line-height: 1.8em;
+    letter-spacing: 1px;
+    margin: 1em 0;
+}
+.w3-edu-top {
+    background: #666666;
+}
+.w3-edu-grid-header h3 {
+    color: #00bcd4;
+    font-size: 3em;
+    font-family: 'Poppins', sans-serif;
+}
+.w3-edu-info-right1 h3 {
+    color: #fff;
+    font-size: 1.7em;
+    text-transform: capitalize;
+}
+.w3-edu-info-right2 h3 {
+    color: #fff;
+    font-size: 2em;
+    text-transform: capitalize;
+    margin-bottom: 25px;
+    letter-spacing: 2px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+.w3-edu-info-right2 h4 {
+    color: #dcad3f;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+.w3-edu-info1 h4 {
+    text-transform: capitalize;
+    color: #dcad3f;
+    letter-spacing: 2px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    display: inline-block;
+    border-bottom: 2px solid;
+    padding-bottom: 10px;
+}
+
+.w3-edu-info-right2 p {
+    color: #8a8a8a;
+    font-size: 1em;
+    line-height: 1.8em;
+    letter-spacing: 1px;
+    width: 59%;
+}
+#experiences {
+    padding: 50px 20px;
+}
+.w3-edu-grids {
+    /*border-bottom: 2px dotted #dae0e5;*/
+    margin-bottom: 30px;
+}
+.w3-edu-info2 span {
+    color: #fff;
+    font-size: 1em;
+    line-height: 1.8em;
+    letter-spacing: 1px;
+    margin: 1em 0;
+    display: block;
+}
+table {
+    background: #fff!important;
+}
+tr:hover {background-color: #666666;}
+tr>th:hover {color: #ffff;}
+tr>td:hover {color: #ffff;}
+
+
+ul.address {
+    border: none;
+    font-size: 16px;
+    margin-left: 45px;
+    margin-right: 20px;
+}
+.grooo {
+    display: inline-block!important;
+    font-size: 12px!important;
+    margin-left: 8px!important;
+    text-transform: initial!important;
+}
+
+.text-infos {
+    color: #dcad3f !important;
+}
+.text-bold {
+    font-weight: bold;
+}
